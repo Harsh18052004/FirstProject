@@ -1,4 +1,4 @@
 # FirstProject
-This is my first GitRepositry
+This is my first GitRepository
 <br>
 Author - Harsh
