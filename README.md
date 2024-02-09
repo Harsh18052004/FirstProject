@@ -1,4 +1,3 @@
-# FirstProject
-This is my first GitRepository!!!
-<br>
-Author - Harsh
+This is Harsh 
+And I am a student of Chitkrara University.
+Group-8
